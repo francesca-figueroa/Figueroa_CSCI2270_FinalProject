@@ -3,7 +3,9 @@ CSCI 2270 Final Project
 
 
 Project Summary 
-One paragraph description of how the program works and what it does.
+This program is essentially a Travel Planner. It is sort of an extension of the Graph Assingnment (#8). The program is going to allow the user to input a text file that allows the program to generate a map around which the user can plan a trip. The plan is to add different "weights" to the graph such as distances, time, or cost. The program also allows for different modes of transportation by which the user can travel, as well as overseas travel. The hope for this program, is to generate options for travel routes, as well as suggestions for best travel experience. 
+
+//One paragraph description of how the program works and what it does.
 
 How to Run
 This section contains instructions, with examples, of how to run your program. You should also include a link here to the project documentation that you will provide in a separate file.
