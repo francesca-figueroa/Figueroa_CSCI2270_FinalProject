@@ -4,25 +4,34 @@ CSCI 2270 Final Project
 
 Project Summary 
 
-This program is essentially a Travel Planner. It is sort of an extension of the Graph Assingnment (#8). The program is going to allow the user to input a text file that allows the program to generate a map around which the user can plan a trip. The plan is to add different "weights" to the graph such as distances, time, or cost. The program also allows for different modes of transportation by which the user can travel, as well as overseas travel. The hope for this program, is to generate options for travel routes, as well as suggestions for best travel experience. 
+This program is essentially a Vacation+Trip Planner. It is sort of an extension of the Graph Assingnment (#8). The program is going to allow the user to input a text file that allows the program to generate a map (Graph) around which the user can plan a trip. The plan is to add different "weights" to the graph such as distances, time, or cost. The program also allows for different modes of transportation by which the user can travel, as well as overseas travel. The hope for this program, is to generate options for travel routes, as well as suggestions for best travel experience. 
 
 How to Run
 
-The user begins by starting the program and selecting countries that they would like to travel around. Once a map is selected, the program 
+The user begins by starting the program and selecting countries that they would like to travel around. Once a map is selected, the program asks a series of questions about the user's travel plans. Examples include things like: 
 
-This section contains instructions, with examples, of how to run your program. You should also include a link here to the project documentation that you will provide in a separate file.
+1. Starting point
+2. Ending point
+3. Other places they may want to travel in between
+4. Mode of transportation
+5. User's budget
+6. Types of activities they want to do while on their trip 
+ 
+Based on the user's answers the program's job is to suggest options for travel routes, give estimated costs, and compare different modes of transportation, and give suggestions on what they can do in each city. 
 
 Dependencies
-This section contains a description of any dependencies that your program requires. For example, if your program relies on another third-party library that needs to be installed, you should provide a description of where to find that library and instructions for how to install it.
+
+
+Other than standard C++ libraries, like string, cstdlib, iostream, just basic ones like that, there will not be any third-party libraries that need to be installed. THe libraries are all included standard in C++.
 
 System Requirements
-Is your program for Windows, Mac, Linux? Are there additional system requirements other than the operating system?
+The program, ideally, will run universally on all systems. It's a pretty basic program, so there are no system requirements. 
 
 Group Members
-List the people who worked on the project.
+none.
 
 Contributors
-List the people who were not on the project team, but may have contributed comments, enhancements, and bug fixes.
+none, yet. 
 
 Open issues/bugs
-List any known bugs in the project, and any open enhancement requests.
+As of right now, I can't think of any immediate bugs/ issues, however, this section may be updated as issues are discovered. 
