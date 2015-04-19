@@ -4,7 +4,7 @@ CSCI 2270 Final Project
 
 Project Summary 
 
-This program is essentially a Vacation+Trip Planner. It is sort of an extension of the Graph Assingnment (#8). The program is going to allow the user to input a text file that allows the program to generate a map (Graph) around which the user can plan a trip. The plan is to add different "weights" to the graph such as distances, time, or cost. The program also allows for different modes of transportation by which the user can travel, as well as overseas travel. The hope for this program, is to generate options for travel routes, as well as suggestions for best travel experience. 
+This program is essentially a Vacation+Trip Planner. It is sort of an extension of the Graph Assingnment (#8). The program generates a map (Graph) around which the user can plan a trip. The plan is to add different "weights" to the graph such as distances, time, or cost. The program also allows for different modes of transportation by which the user can travel, as well as overseas travel. The hope for this program, is to generate options for travel routes, as well as suggestions for best travel experience. 
 
 How to Run
 
@@ -21,10 +21,10 @@ Based on the user's answers the program's job is to suggest options for travel r
 
 Dependencies
 
-
-Other than standard C++ libraries, like string, cstdlib, iostream, just basic ones like that, there will not be any third-party libraries that need to be installed. THe libraries are all included standard in C++.
+Other than standard C++ libraries, like string, cstdlib, iostream, just basic ones like that, there will not be any third-party libraries that need to be installed. The libraries are all included standard in C++.
 
 System Requirements
+
 The program, ideally, will run universally on all systems. It's a pretty basic program, so there are no system requirements. 
 
 Group Members
