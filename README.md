@@ -2,7 +2,7 @@
 CSCI 2270 Final Project 
 
 
-Project Summary
+Project Summary 
 One paragraph description of how the program works and what it does.
 
 How to Run
