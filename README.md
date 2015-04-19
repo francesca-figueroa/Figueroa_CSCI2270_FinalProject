@@ -29,7 +29,7 @@ The program, ideally, will run universally on all systems. It's a pretty basic p
 
 Group Members
 
-none.
+Kevin Prabhu, Rishab Gangopadhyay
 
 Contributors
 
