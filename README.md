@@ -8,6 +8,9 @@ This program is essentially a Travel Planner. It is sort of an extension of the 
 //One paragraph description of how the program works and what it does.
 
 How to Run
+
+The user begins by starting the program and selecting countries that they would like to travel around. Once a map is selected, the program 
+
 This section contains instructions, with examples, of how to run your program. You should also include a link here to the project documentation that you will provide in a separate file.
 
 Dependencies
