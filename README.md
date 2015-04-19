@@ -28,10 +28,13 @@ System Requirements
 The program, ideally, will run universally on all systems. It's a pretty basic program, so there are no system requirements. 
 
 Group Members
+
 none.
 
 Contributors
+
 none, yet. 
 
 Open issues/bugs
+
 As of right now, I can't think of any immediate bugs/ issues, however, this section may be updated as issues are discovered. 
